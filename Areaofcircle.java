@@ -10,4 +10,8 @@ class AreaOfCircle{
 		a = 3.14f * r *r;
 		System.out.println("Area of circle : "+ " " +a);
 }
+
+	public static m1{
+		//codeeeee
+	}
 }
